@@ -1,0 +1,25 @@
+#canvas {
+    border: 5px solid #333; 
+    background-color:grey;
+  }
+
+.restart {
+            padding:20px;
+            position: fixed;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            width: 50%;
+            background-color:#728fce;
+            width: 400px;
+            border-radius: 20px;
+            color: white;
+            text-align:center;
+        }
+.button {
+            padding: 10px;
+            background-color:#728fce;
+            color: white;
+            border-radius: 50px;
+        }
+        
